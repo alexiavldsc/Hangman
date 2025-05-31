@@ -1,0 +1,30 @@
+fotbal|Se joaca cu o minge pe teren si se marcheaza goluri
+baschet|Se arunca mingea intr-un cos inalt
+handbal|Se joaca cu mana si se marcheaza in poarta
+volei|Se joaca peste un fileu cu o minge usoara
+tenis|Se joaca cu rachete si o minge mica
+inot|Sport practicat in apa
+ciclism|Se merge pe bicicleta pe distante lungi
+atletism|Include alergare, sarituri si aruncari
+gimnastica|Sport cu exercitii la aparate si pe saltea
+box|Sport de contact cu manusi
+judo|Sport de lupta din Japonia
+karate|Sport de autoaparare cu miscari rapide
+rugby|Se joaca cu o minge ovala si placaje
+ski|Se practica pe zapada cu schiuri
+patinaj|Se practica pe gheata cu patine
+scrima|Lupta cu spada, floreta sau sabie
+caiac|Vaslit intr-o barca mica
+canotaj|Vaslit in echipa, sport olimpic
+tir cu arcul|Se trage cu arcul in tinta
+escaladare|Urcare pe pereti sau stanci
+surfing|Se merge pe valuri cu o placa
+skateboarding|Sport urban cu placa pe roti
+snowboarding|Se coboara pe zapada cu o placa
+polo|Se joaca in apa cu o minge
+golf|Se loveste mingea in gauri cu crose
+hochei|Se joaca pe gheata cu crosa si puc
+badminton|Se joaca cu rachete si fluturas
+echitatie|Se calareste un cal in competitie
+tenis de masa|Se joaca pe masa cu palete si minge mica
+parkour|Sport urban in care sari peste obstacole cu agilitate

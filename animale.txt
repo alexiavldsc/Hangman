@@ -1,0 +1,32 @@
+cal|Animal domestic folosit pentru calarie
+elefant|Cel mai mare mamifer terestru
+girafa|Animal cu gat foarte lung
+delfin|Mamifer marin inteligent
+vulpe|Animal salbatic siret
+leu|Regele junglei
+tigru|Feline cu dungi
+urs|Animal mare si puternic
+pinguin|Pasare care nu zboara dar inoata
+koala|Marsupial din Australia
+elefant|Animal mare cu trompa din Africa
+iepure|Animal care are urechi lungi si mananca morcovi
+cangur|Sare si isi poarta puiul in marsupiu
+rinocer|Are unul sau doua coarne pe nas
+zebra|Are dungi albe si negre
+hipopotam|Mamifer mare, care traieste in apa
+broasca|Sare si croaste in balta
+maimuta|Se catara in copaci si imita oamenii
+arici|Se face ghem si are spini
+bufnita|Pasare de noapte care e simbolul intelepciunii
+liliac|Singurul mamifer care zboara
+rechin|Pradator marin cu multi dinti
+pisica|Animal de companie care toarce
+caine|Cel mai bun prieten al omului
+gaina|Face oua si cotcodaceste
+porc|Traieste la ferma si este roz
+oaie|Are blana pufoasa si este crescuta la ferma
+albina|Traieste in stup si produce miere
+veverita|Sare din copac in copac si mananca nuci
+paun|Pasare cu coada colorata
+
+

@@ -1,0 +1,30 @@
+pop|Gen muzical usor, foarte popular
+rock|Gen muzical cu chitara si tobe
+rap|Gen muzical cu rime rapide si ritm
+jazz|Gen muzical cu improvizatie si instrumente de suflat
+blues|Gen muzical melancolic, originar din SUA
+reggae|Gen muzical jamaican, cu ritm lent
+techno|Muzica electronica de club
+house|Gen electronic, adesea dansabil
+folk|Muzica traditionala si acustica
+clasic|Muzica orchestrala, simfonica
+trap|Subgen de rap cu beat-uri grele
+disco|Gen muzical dansant din anii '70
+country|Muzica americana cu chitara si povesti
+edm|Prescurtare pentru muzica electronica de dans
+kpop|Pop coreean foarte popular
+metal|Rock agresiv, cu chitara electrica puternica
+beethoven|Compozitor celebru de muzica clasica
+mozart|Compozitor austriac faimos
+eminem|Rapper american foarte rapid si celebru
+drake|Artist de rap si r&b din Canada
+adele|Cantareata britanica cu voce puternica
+beyonce|Regina muzicii pop si r&b
+taylor swift|Artista pop si country foarte populara
+rihanna|Cantareata din Barbados cu hituri internationale
+shakira|Cantareata columbiana cunoscuta pentru dans
+elvis|Regele rock and roll-ului
+michael jackson|Regele muzicii pop
+the beatles|Trupa britanica legendara
+queen|Trupa de rock cu Freddie Mercury
+coldplay|Trupa britanica de pop-rock

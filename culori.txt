@@ -1,0 +1,23 @@
+rosu|Culoarea iubirii si a inimii
+albastru|Culoarea cerului senin
+galben|Culoarea soarelui
+verde|Culoarea ierbii
+portocaliu|Culoare intre rosu si galben
+violet|Culoare regala, amestec de albastru si rosu
+roz|Culoare delicata, des folosita pentru flori
+negru|Culoarea intunericului
+alb|Culoarea zapezii
+gri|Culoare neutra intre alb si negru
+maro|Culoarea ciocolatei
+turcoaz|Culoare intre albastru si verde
+bej|Culoare deschisa, asemanatoare nisipului
+auriu|Culoarea elementului chimic Au
+argintiu|Culoarea metalului stralucitor
+indigo|Albastru inchis, aproape violet
+coral|Culoare intre roz si portocaliu
+fucsia|Roz intens si aprins
+visiniu|Culoarea vinului rosu
+lavanda|Mov pal, asemanator florii cu acelasi nume
+
+
+

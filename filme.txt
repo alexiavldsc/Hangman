@@ -1,0 +1,30 @@
+titanic|Film despre un vapor scufundat
+matrix|Film sci-fi despre realitate virtuala
+avatar|Film despre o planeta albastra
+frozen|Film animat despre regina zapezii
+shrek|Film animat despre un ogru verde
+gladiator|Film despre un luptator roman
+inception|Film despre vise in vise
+joker|Film despre un villain celebru
+batman|Film despre un supererou fara puteri
+spiderman|Film despre omul paianjen
+harry potter|Film cu un baiat vrajitor si o scoala magica
+stapanul inelelor|Film epic cu un inel magic si hobiti
+star wars|Film cu cavaleri Jedi si lupte in spatiu
+jurassic park|Film cu dinozauri readusi la viata
+piratii din caraibe|Film cu pirati si comori ascunse
+regele leu|Film animat cu un leu care devine rege
+toy story|Film animat cu jucarii care prind viata
+finding nemo|Film animat despre un peste pierdut
+up|Film animat cu un batran si o casa care zboara
+minionii|Film animat cu creaturi galbene haioase
+the avengers|Film cu supereroi care salveaza lumea
+iron man|Film cu un miliardar care devine erou in armura
+pantera neagra|Film cu un rege supererou din Wakanda
+doctor strange|Film cu un magician care controleaza timpul
+deadpool|Film cu un erou sarcastic si imprevizibil
+captain america|Film despre un soldat cu scut
+moana|Film animat cu o fata curajoasa din insule
+coco|Film animat despre muzica si traditii mexicane
+zootopia|Film animat cu animale care traiesc ca oamenii
+aladdin|Film cu o lampa magica si un duh amuzant

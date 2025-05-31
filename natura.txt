@@ -1,0 +1,31 @@
+munte|Formatiune inalta din pamant si piatra
+rau|Apa curgatoare prin vai
+ocean|Intindere uriasa de apa sarata
+padure|Zona cu multi copaci
+lac|Intindere de apa dulce
+desert|Zona uscata cu nisip
+vulcan|Munte care poate erupe lava
+insula|Pamant inconjurat de apa
+pestera|Gol sub pamant sau in munte
+campie|Teren plat, intins
+deal|Forma de relief mai mica decat muntele
+cascada|Apa care cade de la inaltime
+gheata|Apa inghetata
+zapada|Fulgi albi care cad iarna
+nor|Masa de vapori pe cer
+ploaie|Picaturi de apa care cad din nori
+vant|Aer in miscare
+furtuna|Vreme rea cu ploaie si vant
+curcubeu|Arc colorat pe cer dupa ploaie
+soare|Steaua care ne da lumina si caldura
+luna|Satelit natural al Pamantului
+stea|Luminita pe cerul noptii
+planeta|Corp ceresc care orbiteaza o stea
+floare|Partea colorata a unei plante
+copac|Planta mare cu trunchi
+frunza|Parte verde a copacului
+radacina|Partea plantei sub pamant
+nisip|Particule fine, gasite pe plaja sau in desert
+val|Miscare a apei in ocean sau mare
+gheizer|Izvor fierbinte care arunca apa in aer
+

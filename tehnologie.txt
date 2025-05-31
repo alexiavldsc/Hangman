@@ -1,0 +1,30 @@
+computer|Dispozitiv electronic pentru calcule
+telefon|Dispozitiv de comunicare
+internet|Retea globala de calculatoare
+robot|Masina programabila
+software|Programe de calculator
+smartphone|Telefon inteligent
+laptop|Calculator portabil
+tablet|Dispozitiv cu ecran tactil
+webcam|Camera pentru videoconferinte
+bluetooth|Tehnologie de conectare wireless
+mouse|Dispozitiv de control al cursorului
+tastatura|Dispozitiv pentru scris la calculator
+monitor|Ecranul calculatorului
+router|Dispozitiv care distribuie internetul in casa
+server|Calculator care ofera date altor calculatoare
+aplicatie|Program folosit pe telefon sau calculator
+email|Mesaj trimis electronic
+browser|Program pentru accesarea site-urilor
+google|Motor de cautare foarte popular
+facebook|Retea de socializare online
+instagram|Aplicatie pentru poze si povesti
+youtube|Platforma de videoclipuri
+hashtag|Simbol folosit pentru etichetare in social media
+cod|Instructiuni scrise pentru calculatoare
+programare|Procesul de scriere a codului
+baterie|Sursa de energie pentru dispozitive mobile
+incarcator|Dispozitiv care alimenteaza cu energie
+cloud|Stocare de fisiere pe internet
+antivirus|Program care protejeaza calculatorul
+drona|Dispozitiv zburatoare controlate de la distanta

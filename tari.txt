@@ -1,0 +1,32 @@
+romania|Tara in Europa de Est
+japonia|Tara cunoscuta pentru tehnologie
+brazilia|Tara cunoscuta pentru fotbal
+australia|Continent cu animale unice
+egipt|Tara cu piramide
+franta|Tara turnului Eiffel
+italia|Tara in forma de cizma
+spania|Tara flamenco-ului
+germania|Tara din centrul Europei
+china|Cea mai populata tara
+canada|Tara rece cu frunze de artar
+mexic|Tara cu mariachi si tacos
+india|Tara cu Taj Mahal si multe condimente
+grecia|Tara cu zei si temple antice
+turcia|Tara intre Europa si Asia
+portugalia|Tara lui Cristiano Ronaldo
+rusia|Tara cu cea mai mare suprafata
+sua|Tara cu 50 de state si Hollywood
+anglia|Tara cu Big Ben si ceai de la ora 5
+suedia|Tara nordica cu IKEA si ABBA
+norvegia|Tara fiordurilor si a luminilor nordice
+finlanda|Tara lui Mos Craciun si a lacurilor
+islanda|Tara vulcanilor si a gheizerelor
+argentina|Tara tangoului si a pampasului
+chile|Tara lunga si ingusta din America de Sud
+columbia|Tara cafelei si a muntilor
+thailanda|Tara cu plaje exotice si temple aurii
+vietnam|Tara asiatica cu istorie bogata si mancare delicioasa
+coreea de sud|Tara K-pop si a tehnologiei
+indonezia|Arhipelag tropical cu mii de insule
+
+

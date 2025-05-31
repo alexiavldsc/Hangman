@@ -1,0 +1,30 @@
+doctor|Vindeca oameni
+profesor|Preda lectii la scoala
+pompier|Stinge incendii
+politist|Pazeste legea
+bucatar|Gateste mancare
+sofer|Conduce vehicule
+vanzator|Vinde produse in magazin
+actor|Joaca in filme sau piese
+cantaret|Canta pe scena
+inginer|Proiecteaza masini sau cladiri
+arhitect|Deseneaza planuri pentru constructii
+medic veterinar|Vindeca animale
+pilot|Conduce avioane
+frizer|Tunde parul
+mecanic|Repara masini
+electrician|Lucreaza cu curentul electric
+instalator|Repara tevile si robinetele
+fermier|Creste animale si cultiva pamantul
+ospatar|Serveste clientii la restaurant
+programator|Scrie cod si face aplicatii
+fotograf|Face poze profesionale
+scriitor|Scrie carti sau povesti
+bibliotecar|Lucreaza intr-o biblioteca
+jurnalist|Scrie articole si stiri
+designer|Creeaza haine, obiecte sau grafica
+contabil|Lucreaza cu bani si cifre
+avocat|Apara oameni in instanta
+judecator|Da sentinte in tribunal
+croitor|Face sau modifica haine
+gunoier|Ridica gunoiul din oras

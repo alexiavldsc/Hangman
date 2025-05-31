@@ -1,0 +1,30 @@
+pizza|Specialitate italiana
+sushi|Preparat japonez cu peste
+burger|Fast food american
+pasta|Preparat italian cu faina
+ciocolata|Desert dulce din cacao
+sarmale|Preparat traditional romanesc
+papanasi|Desert traditional romanesc
+mici|Carnati romanesti la gratar
+cozonac|Paine dulce de sarbatori
+salata|Preparat din legume crude
+ciorba|Supa acra traditionala romaneasca
+tocanita|Mancare gatita cu sos si carne
+musaca|Mancare cu straturi de cartofi si carne
+pilaf|Orez gatit cu legume sau carne
+omleta|Oua batute si prajite
+placinta|Desert sau gustare cu umplutura dulce sau sarata
+clatite|Desert subtire rulat cu gem sau ciocolata
+friganele|Paine inmuiata in ou si prajita
+cascaval pane|Branza prajita in crusta crocanta
+cartofi prajiti|Garnitura crocanta, foarte populara
+piure|Cartofi fierti si zdrobiti cu lapte
+frigarui|Bucati de carne si legume pe bete
+shaorma|Preparat cu carne rotisata, legume si sosuri
+snitel|Carne pane prajita, populara in multe bucatarii
+lasana|Preparat italian cu straturi de paste si sos
+ratatouille|Mancare frantuzeasca din legume
+tiramisu|Desert italian cu cafea si mascarpone
+cheesecake|Desert cremos cu blat de biscuiti
+guacamole|Pasta verde din avocado, specific mexicana
+hummus|Pasta din naut, specific orientala
